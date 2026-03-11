@@ -1,1 +1,5 @@
-console.log("soy el programador c")
+function saludar(nombre){
+    return "Hola " + nombre;
+}
+
+console.log(saludar("Andres"));
